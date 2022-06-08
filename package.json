@@ -1,23 +1,24 @@
 {
-  "name": "teste-repositorio-compass",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/dev-ViniciusMonteiro/teste-repositorio-compass.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/dev-ViniciusMonteiro/teste-repositorio-compass/issues"
-  },
-  "homepage": "https://github.com/dev-ViniciusMonteiro/teste-repositorio-compass#readme",
-  "dependencies": {
-    "express": "^4.18.1"
-  }
+    "name": "teste-repositorio-compass",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/dev-ViniciusMonteiro/teste-repositorio-compass.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/dev-ViniciusMonteiro/teste-repositorio-compass/issues"
+    },
+    "homepage": "https://github.com/dev-ViniciusMonteiro/teste-repositorio-compass#readme",
+    "dependencies": {
+        "express": "^4.18.1"
+    }
 }
